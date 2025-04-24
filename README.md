@@ -41,6 +41,7 @@
 * Paypal-https://www.paypal-engineering.com/
 * Pinterest-http://engineering.pinterest.com/
 * Prezi-https://medium.com/prezi-engineering
+* Pulumi-https://www.pulumi.com/blog/
 * Quora-http://engineering.quora.com/
 * Rightscale-http://eng.rightscale.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
